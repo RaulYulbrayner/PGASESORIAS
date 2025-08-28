@@ -6,6 +6,10 @@ public class Consulta {
         System.out.println("Hola");
     }
 
+    public void registrarConsulta(String fecha){
+
+    }
+
 
 
 }
