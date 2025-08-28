@@ -1,23 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-<<<<<<< HEAD
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e4c0403-5fea-4643-9f40-67b9c5345b4a" name="Changes" comment="" />
+    <list default="true" id="730192b4-02a6-44a5-8ebd-5f91b9a5122c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
-}</component>
-  <component name="ProjectId" id="31vhQWRoFGK7y8x6F0O7Ve2cQbf" />
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "YaelCami"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/RaulYulbrayner/PGASESORIAS.git",
+    "accountId": "ec81ffa9-5a14-4359-8675-9fb7a9613964"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="31vhQeC6dJ0HuHpUvNztJ7WOahZ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,41 +38,38 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "dev__emanuel",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/EmanuelD/Universidad/programacion/Proyectos/Asesoria/PGASESORIAS/eps",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Familia Calderón/Yael/Universidad/Universidad/Tercer Semestre/Programación 2/PGASESORIAS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.27812.49" />
-        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.27812.49" />
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
       </set>
     </attachedChunks>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0e4c0403-5fea-4643-9f40-67b9c5345b4a" name="Changes" comment="" />
-      <created>1756410439984</created>
+      <changelist id="730192b4-02a6-44a5-8ebd-5f91b9a5122c" name="Changes" comment="" />
+      <created>1752611595499</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1756410439984</updated>
-      <workItem from="1756410442504" duration="208000" />
-      <workItem from="1756411008107" duration="79000" />
+      <updated>1752611595499</updated>
+      <workItem from="1752611596597" duration="64000" />
+      <workItem from="1756410440378" duration="264000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-=======
-  <component name="ProjectId" id="31vgpKSF0lKcLmwwp5NN9MStNok" />
->>>>>>> main
 </project>
