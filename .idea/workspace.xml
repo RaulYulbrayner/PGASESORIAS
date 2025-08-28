@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="730192b4-02a6-44a5-8ebd-5f91b9a5122c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/eps/src/main/java/uniquindio/edu/co/model/Sede.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eps/src/main/java/uniquindio/edu/co/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/eps/src/main/java/uniquindio/edu/co/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eps/src/main/java/uniquindio/edu/co/model/Consulta.java" beforeDir="false" afterPath="$PROJECT_DIR$/eps/src/main/java/uniquindio/edu/co/model/Consulta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eps/src/main/java/uniquindio/edu/co/model/Documento.java" beforeDir="false" afterPath="$PROJECT_DIR$/eps/src/main/java/uniquindio/edu/co/model/Documento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eps/src/main/java/uniquindio/edu/co/model/Eps.java" beforeDir="false" afterPath="$PROJECT_DIR$/eps/src/main/java/uniquindio/edu/co/model/Eps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eps/src/main/java/uniquindio/edu/co/model/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/eps/src/main/java/uniquindio/edu/co/model/Usuario.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +79,7 @@
       <updated>1752611595499</updated>
       <workItem from="1752611596597" duration="64000" />
       <workItem from="1756410440378" duration="264000" />
-      <workItem from="1756412630425" duration="720000" />
+      <workItem from="1756412630425" duration="1020000" />
     </task>
     <servers />
   </component>
