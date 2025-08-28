@@ -7,9 +7,9 @@ public class Consulta {
     }
 
     public void registrarConsulta(String fecha){
-
+        String nombre = "yaul";
     }
 
-
+    
 
 }
