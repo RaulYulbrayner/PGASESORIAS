@@ -1,4 +1,4 @@
-package uniquindio.edu.co.model;
+package main.java.uniquindio.edu.co.model;
 
 public class Consulta {
 
@@ -7,7 +7,7 @@ public class Consulta {
     }
 
     public void registrarConsulta(String fecha){
-
+        String nombre = "yaul";
     }
 
 
